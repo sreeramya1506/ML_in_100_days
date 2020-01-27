@@ -59,7 +59,7 @@ Q58) animals/feline
 Q59)open('jack_russell.png', 'rb') , open('jack_russell.png', bytes=True) 
 Q60) animals/ursine/bears.gif
 Q61) c
-Q62) 
+Q62) animals/ursine/bears.gif
 Q63) b
 Q64) b
 Q65) a
@@ -88,4 +88,65 @@ Q87) b
 Q88) d
 Q89) c
 Q90) c
-Q91) 
+Q91) b
+Q92) d
+Q93) d
+Q94) d
+Q95) b
+Q96) d
+Q97) c
+Q98) c
+Q99) b
+Q100) a
+Q101) c
+Q102) a
+Q103) a
+Q104) d
+Q105) b
+Q106) a
+Q107) b
+Q108) b
+Q109) a
+Q110) d
+Q111) c
+Q112) b
+Q113) a
+Q114) b
+Q115) c
+Q116) b
+Q117) b
+Q118) c
+Q119) a
+Q120) a
+Q121) c
+Q122) d
+Q123) a
+Q124) a
+Q125) c
+Q126) a
+Q127) b
+Q128) c
+Q129) a
+Q130) a
+Q131) a
+Q132) a
+Q133) a
+Q134) a
+Q135) c
+Q136) b
+Q137) b
+Q138) a
+Q139) c
+Q140) a
+Q141) b
+Q142) d
+Q143) d
+Q144) a
+Q145) a
+Q146) a
+Q147) b
+Q148) a
+Q149) b
+Q150) a
+
+
